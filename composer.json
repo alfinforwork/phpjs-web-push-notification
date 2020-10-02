@@ -1,0 +1,12 @@
+{
+    "name": "alfin/nodejs-push-notification-web",
+    "authors": [
+        {
+            "name": "Mohamad Alfin Nahrowi",
+            "email": "alfinforwork@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-push-notifications": "^1.1"
+    }
+}
